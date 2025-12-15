@@ -43,7 +43,8 @@
     "version": "manual-git-changelog onversion"
   },
   "dependencies": {
-    "@solid/community-server": "^7.0.0",
+    "@solid/community-server": "^7.1.0",
+    "@solidlab/derived-resources-component": "^1.2.0",
     "@types/dockerode": "^3.0.0",
     "@types/unzipper": "^0.10.0",
     "dockerode": "^4.0.0",
