@@ -8,6 +8,7 @@ export const Templates = {
   ENHANCEMENT_SIMILARITIES_CONFIG: join(__dirname, '../templates/enhancer-similarities-config-pod.json'),
   FRAGMENT_CONFIG: join(__dirname, '../templates/fragmenter-config-pod.json'),
   FRAGMENT_CONFIG_SEQUENCES: join(__dirname, '../templates/fragmenter-config-pod-sequences.json'),
+  FRAGMENT_CONFIG_DERIVED: join(__dirname, "../templates/fragmenter-config-pod-derived-resources.json"), 
   QUERY_CONFIG: join(__dirname, '../templates/query-config.json'),
   QUERY_SEQUENCE_CONFIG: join(__dirname, '../templates/query-sequence-config.json'),
   SERVER_CONFIG: join(__dirname, '../templates/server-config.json'),

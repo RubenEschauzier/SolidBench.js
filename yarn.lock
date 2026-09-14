@@ -8936,10 +8936,10 @@ rdf-data-factory@^2.0.0, rdf-data-factory@^2.0.1, rdf-data-factory@^2.0.2:
   dependencies:
     "@rdfjs/types" "^2.0.0"
 
-rdf-dataset-fragmenter@^2.10.0:
+"rdf-dataset-fragmenter@npm:@rubeneschauzier/rdf-dataset-fragmenter@^2.10.0":
   version "2.10.0"
-  resolved "https://registry.yarnpkg.com/rdf-dataset-fragmenter/-/rdf-dataset-fragmenter-2.10.0.tgz#e2cc41aae738ac74c731eb50905bc10b903ecbb4"
-  integrity sha512-I0o4HsdTY8oUnp9IpHs7rQs33bEhhsbO4XAwvLtmQRKIfJurgP9HwCJKB8lUibQHmtBgdKaBhhs4Agti2gDY5g==
+  resolved "https://registry.yarnpkg.com/@rubeneschauzier/rdf-dataset-fragmenter/-/rdf-dataset-fragmenter-2.10.0.tgz#88cee03c69f1975e8460e9cb5f1e9ad9a7659c88"
+  integrity sha512-56jnJ9Y2CeOv0zjpZ8H/LdJy1GubQf+io+sVn4ple/yiEwXDyBzaeMz82jetnKkqrTiXG143zCnlPIOcobEIZA==
   dependencies:
     "@rdfjs/types" "*"
     "@types/async-lock" "^1.4.0"
@@ -8957,6 +8957,7 @@ rdf-dataset-fragmenter@^2.10.0:
     rdf-string "^1.6.0"
     rdf-terms "^1.11.0"
     relative-to-absolute-iri "^1.0.0"
+    sparqljs "^3.7.3"
     stream-to-string "^1.0.0"
 
 rdf-dereference@^2.2.0:
@@ -9824,7 +9825,7 @@ sparqlalgebrajs@^5.0.2:
     rdf-terms "^2.0.0"
     sparqljs "^3.7.1"
 
-sparqljs@^3.0.0, sparqljs@^3.1.2, sparqljs@^3.7.0, sparqljs@^3.7.1:
+sparqljs@^3.0.0, sparqljs@^3.1.2, sparqljs@^3.7.0, sparqljs@^3.7.1, sparqljs@^3.7.3:
   version "3.7.4"
   resolved "https://registry.yarnpkg.com/sparqljs/-/sparqljs-3.7.4.tgz#d1f0c525aab6030c521b12ccef7efa2f57c82e90"
   integrity sha512-hb4C84gf7KM7vz+iG595mPwvqxOvBJCm9L3dCxtV2zZDht6ZMmMG0tHeeqFeqwb9875yU9U4lhYe4LYRvWj0BQ==

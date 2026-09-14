@@ -1,5 +1,5 @@
 {
-  "name": "solidbench",
+  "name": "@rubeneschauzier/solidbench",
   "version": "2.2.1",
   "packageManager": "yarn@1.22.22",
   "description": "A benchmark for Solid to simulate vaults with social network data.",
@@ -49,7 +49,7 @@
     "dockerode": "^4.0.0",
     "ldbc-snb-enhancer": "^2.7.1",
     "ldbc-snb-validation-generator": "^1.2.0",
-    "rdf-dataset-fragmenter": "^2.10.0",
+    "rdf-dataset-fragmenter": "npm:@rubeneschauzier/rdf-dataset-fragmenter@^2.10.0",
     "sparql-query-parameter-instantiator": "^2.8.0",
     "unzipper": "^0.12.0",
     "yargs": "^17.0.0"
