@@ -8936,7 +8936,7 @@ rdf-data-factory@^2.0.0, rdf-data-factory@^2.0.1, rdf-data-factory@^2.0.2:
   dependencies:
     "@rdfjs/types" "^2.0.0"
 
-"rdf-dataset-fragmenter@npm:@rubeneschauzier/rdf-dataset-fragmenter@^2.10.3":
+"rdf-dataset-fragmenter@npm:@rubeneschauzier/rdf-dataset-fragmenter@^2.10.1":
   version "2.10.3"
   resolved "https://registry.yarnpkg.com/@rubeneschauzier/rdf-dataset-fragmenter/-/rdf-dataset-fragmenter-2.10.3.tgz#41398c733516db92fe2830e14a06599fcbf470e1"
   integrity sha512-wbIGirW85A8I2lTI5F07ZKIrbLQV0/cFhzPWbs+IB9kNl8A999PFEBrjZ2SkcfubG8zaCQXty3yGXDr6Pi80fA==
